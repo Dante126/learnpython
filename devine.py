@@ -1,7 +1,7 @@
 import random
 
-# Tirer un nombre entre 0 et 100
-nombre = random.randint(0,100)
+# Tirer un nombre entre 0 et 1000
+nombre = random.randint(0,1000)
 
 trouve = False
 essais = 0
